@@ -23,9 +23,5 @@ To run this notebook, you will need:
 * Python 3.8+
 * Jupyter Notebook
 * Common Python libraries:
-
-  ```bash
   pip install pandas numpy scikit-learn matplotlib transformers
-  ```
 
-  *(Exact dependencies may vary depending on the Facebook model used)*
