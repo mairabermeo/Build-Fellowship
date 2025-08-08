@@ -1,0 +1,31 @@
+# BagCharm ASINS Analysis
+
+## Overview
+
+This project analyzes **Amazon Standard Identification Numbers (ASINs)** for bag charms, applying filtering and text processing to better understand product ratings, descriptions, and potential marketing phrases.
+
+The notebook includes:
+
+* **Data filtering** for low-rated products (`<= 3` ratings)
+* **Common phrase extraction** from product descriptions
+* **Facebook model testing** (likely a machine learning or NLP model integration)
+
+## Features
+
+* **Data Cleaning**: Remove unwanted or irrelevant entries
+* **Phrase Mining**: Identify repeated phrases in product descriptions
+* **Model Integration**: Experiment with a Facebook AI model for analysis or classification
+
+## Requirements
+
+To run this notebook, you will need:
+
+* Python 3.8+
+* Jupyter Notebook
+* Common Python libraries:
+
+  ```bash
+  pip install pandas numpy scikit-learn matplotlib transformers
+  ```
+
+  *(Exact dependencies may vary depending on the Facebook model used)*
