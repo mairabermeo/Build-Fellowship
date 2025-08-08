@@ -25,3 +25,5 @@ To run this notebook, you will need:
 * Common Python libraries:
   pip install pandas numpy scikit-learn matplotlib transformers
 
+Looker Visual
+link: https://lookerstudio.google.com/u/0/reporting/5b670331-3260-4b93-bced-e8631f391213/page/absRF
